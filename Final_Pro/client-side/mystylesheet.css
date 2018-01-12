@@ -1,0 +1,53 @@
+body{
+padding-top: 38px;
+background-color: #000000;
+
+}
+
+h1{
+  font-size: 38px;
+  color:#ffffff;
+  font-weight: bold;
+  font-family: serif;
+}
+
+
+p{
+  color:#ffffff;
+  font-size: 18px;
+font-family: sans-serif;
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
+
+
+
+#intro{
+  padding-bottom: 50px
+}
+
+.cutline{
+  font-size: 15px;
+}
+
+#home{
+  color:#ffffff;
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+
+
+.hometop{
+  padding-top: 45px;
+}
+
+#logo{
+  
+  padding-left:920px;
+}
+.logo{
+  width:30%;
+}
